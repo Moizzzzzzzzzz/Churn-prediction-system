@@ -1,0 +1,14 @@
+# .gitignore
+
+# Virtual environment folder ko ignore karein
+venv/
+
+# Jupyter Notebook cache files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Badi files jaise model ko upload se rokne ke liye, filhaal hum isko allow karenge
+# lekin agar model bahut bada ho to yeh line use karte hain:
+# churn_deployment_assets.jobli

@@ -1,0 +1,12 @@
+# .streamlit/config.toml
+
+[theme]
+# Poori app ka color scheme light rakheinge
+base="light"
+
+# Aapke custom colors ko light theme se milane ke liye
+primaryColor="#1e3a8a" # Button aur links ka color
+backgroundColor="#f0f2f6" # Main app background
+secondaryBackgroundColor="#ffffff" # Sidebar ka background color
+textColor="#262730" # Text ka color
+font="sans serif"
